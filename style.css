@@ -1,0 +1,16 @@
+.nav-links {
+    list-style: none;
+    display: flex;
+    align-items: center; /* esta linea nos esta dando la alineación deseada */
+    gap: 1rem; /* distancia de separación entre cada palabra */
+}
+
+.link a {
+    padding: 0 1rem;
+    color: var(--text-dark);
+    transition: 0.3s;
+}
+
+.link a:hover {
+    color: var(--primary-color);
+}
