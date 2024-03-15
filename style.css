@@ -1,16 +1,27 @@
-.nav-links {
-    list-style: none;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #363535;
+    padding: 20px;
     display: flex;
-    align-items: center; /* esta linea nos esta dando la alineación deseada */
-    gap: 1rem; /* distancia de separación entre cada palabra */
+    justify-content: space-around;
 }
 
-.link a {
-    padding: 0 1rem;
-    color: var(--text-dark);
-    transition: 0.3s;
-}
-
-.link a:hover {
-    color: var(--primary-color);
+footer div {
+    flex-basis: 30%;
+    text-align: center;
 }
