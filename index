@@ -1,0 +1,78 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tin Car</title>
+    <link rel="stylesheet" href="Santiaguitouwu/css/style.css">
+</head>
+
+  <nav>
+      <div class="nav-logo">
+
+          <img src="" >
+
+      </div>
+
+ 
+      <ul class="nav-links">
+          <li >
+              <a href="#¿Quiénes somos?">¿Quiénes somos?</a>
+          </li>
+          <li class="link"><a href="#Nuestros Objetivos">Nuestros Objetivos</a></li>
+          <li class="link"><a href="¿Qué puede pasar si me encuentran mal parqueado?">¿Qué puede pasar si me encuentran mal parqueado?</a></li>
+          <li class="link"><a href="#reviews">nosotros</a></li>
+      </ul>
+      <button class="btn"><a href="#Nosotros">Nosotros</a></button>
+  </nav>
+
+
+<body>
+    <header>
+        <h1>Tin Car</h1>
+        <img src="Santiaguitouwu/imagenes/file.jpg" width="400" height="400">
+    </header>
+
+    <section>
+        <h1>¿Quiénes somos?</h1>
+        <p>
+         Buscamos minimizar la mala movilidad causada por el mal estacionamiento en las vías públicas, va dirigido a los conductores que se vean en la necesidad de parquear en la vía pública por falta de estacionamientos visibles o cercanos, lo haremos a través de una aplicación que permite que las personas que tienen un espacio en su domicilio para poder parquear vehículos ofrezcan este lugar como parqueadero para que los conductores que se encuentren por la zona del arrendador puedan solicitar el servicio y contar con este parqueadero para no afectar las vías y evitar congestiones y quizá multas..
+        </p>
+        
+    </section>
+
+    <section>
+        <h2>Nuestros Objetivos </h2>
+        <ul>
+            <li>Mejorar la calidad de la movilidad en nuestra ciudad</li>
+            <li>disminuir el indice de hurtos de vehiculos mal parqueados</li>
+            <li>disminuir la posibilidad de multas debido al uso inadecuado del espacio publico </li>
+        </ul>
+        <h4>¿Qué puede pasar si me encuentran mal parqueado?</h4>
+        <ul>
+            <li><a href="https://www.autofact.com.co/blog/mi-carro/comparendos/multa-mal-parqueo">Multa por mal parqueo </a></li>
+            <li><a href="https://www.movilidadbogota.gov.co/web/preguntas_frecuentes/cuales_son_las_normas_que_reglamentan_el_estacionamiento_en_via_publica">Codigo Nacional de Transito </a></li>
+        </ul>
+        <img src="Santiaguitouwu/imagenes/palermo señora andensiiiiiiiiiprimeraaa_0.jpg" width="400" height="400">
+        <img src="Santiaguitouwu/imagenes/mal.jpg" width="400" height="400">
+    </section>
+
+    <footer>
+        <div>
+            <h3>Contacto</h3>
+            <p>Correo: tin.car@gmail.com</p>
+        </div>
+        <div>
+            <h3>Redes Sociales</h3>
+            <p>Facebook</p>
+            <p>Twitter</p>
+            <p>Instagram</p>
+        </div>
+        <div>
+            <h3>Ubicación</h3>
+            <p>Dirección: Calle 130#34-24, Bogotá</p>
+            <p>Teléfono: 123-456-7890</p>
+        </div>
+    </footer>
+
+</body>
+</html>
