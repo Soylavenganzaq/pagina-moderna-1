@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tin Car</title>
-    <link rel="stylesheet" href="Santiaguitouwu/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
   <nav>
@@ -29,7 +29,7 @@
 <body>
     <header>
         <h1>Tin Car</h1>
-        <img src="Santiaguitouwu/imagenes/file.jpg" width="400" height="400">
+        <img src="imagenes/file.jpg" width="400" height="400">
     </header>
 
     <section>
@@ -52,8 +52,8 @@
             <li><a href="https://www.autofact.com.co/blog/mi-carro/comparendos/multa-mal-parqueo">Multa por mal parqueo </a></li>
             <li><a href="https://www.movilidadbogota.gov.co/web/preguntas_frecuentes/cuales_son_las_normas_que_reglamentan_el_estacionamiento_en_via_publica">Codigo Nacional de Transito </a></li>
         </ul>
-        <img src="Santiaguitouwu/imagenes/palermo señora andensiiiiiiiiiprimeraaa_0.jpg" width="400" height="400">
-        <img src="Santiaguitouwu/imagenes/mal.jpg" width="400" height="400">
+        <img src="imagenes/palermo señora andensiiiiiiiiiprimeraaa_0.jpg" width="400" height="400">
+        <img src="imagenes/mal.jpg" width="400" height="400">
     </section>
 
     <footer>
